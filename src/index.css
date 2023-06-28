@@ -1,0 +1,22 @@
+:root {
+  --primary: #ddd;
+  --secondary: #e5d4d4;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--primary);
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
