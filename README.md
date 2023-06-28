@@ -1,76 +1,187 @@
-# Webpack Linters Template
+<a name="readme-top"></a>
 
-This is a template repository for setting up a project with Webpack and linters (ESLint and Stylelint) configured. It provides a solid foundation for building JavaScript and CSS projects while ensuring code quality and adherence to coding standards.
+<div align="center">
 
-## Features
+  <br/>
 
-- Webpack configuration for bundling JavaScript and CSS files
-- ESLint for JavaScript linting with a recommended configuration
-- Stylelint for CSS linting with a recommended configuration
-- Pre-commit hooks to run linters before committing changes
-- Deployment script for deploying the project to GitHub Pages
+  <h2><b>Leaderboard</b></h2>
 
-## Getting Started
+</div>
 
-To use this template and set up your project, follow these steps:
+<!-- TABLE OF CONTENTS -->
 
-1. Click on the "Use this template" button or manually clone the repository.
-2. Clone the repository to your local machine using Git.
-   ```bash
-   git clone https://github.com/kit0-0/webpacl-linters-template.git
-   ```
-3. Navigate to the project directory.
-   ```bash
-   cd webpack-linters-template
-   ```
-4. Install the dependencies.
-   ```bash
-   npm install
-   ```
-5. Start the development server.
-   ```bash
-   npm start
-   ```
-   This will compile the project and launch the development server.
-6. Begin coding your project, writing JavaScript and CSS code in the `src` directory.
+# 📗 Table of Contents
 
-## Scripts
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Leaderdoard\] ](#-leaderdoard-)
+  - [🛠 Built With ](#-built-with-)
+    - [Key Features ](#key-features-)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Install](#install)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+  - [👥 Author ](#-author-)
+  - [Live Demo ](#live-demo-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
-The following scripts are available in the project:
+<!-- PROJECT DESCRIPTION -->
 
-- `npm start`: Starts the development server.
-- `npm run build`: Builds the project for production.
-- `npm run lint`: Runs ESLint and Stylelint to check for linting issues.
-- `npm test`: Runs the project's tests (if any).
-- `npm run deploy`: Deploys the project to GitHub Pages.
+# 📖 [Leaderdoard] <a name="about-project"></a>
 
-## Configuration
+**[Leaderboard]** Is a project exercise given by Microverse to help me learn how to use webpack files and to build a basic website that allows users to load scores.
 
-The project includes default configurations for ESLint and Stylelint, located in the root directory:
+## 🛠 Built With <a name="built-with"></a>
 
-- `.eslintrc.json`: ESLint configuration file with recommended settings.
-- `.stylelintrc.json`: Stylelint configuration file with recommended settings.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/default.asp">HTML</a></li>
+    <li><a href="https://www.w3schools.com/css/default.asp">Css</a></li>
+    <li><a href="https://www.w3schools.com/javascript/default.asp">JS</a></li>
+  </ul>
+</details>
 
-You can modify these configuration files according to your project's requirements.
+<!-- Features -->
 
-## Pre-commit Hooks
+### Key Features <a name="key-features"></a>
 
-The project is configured to run the linters automatically before committing changes, ensuring that code quality and style standards are maintained. If any issues are found, the commit will be blocked until the issues are resolved.
+- **[HTML Form]**
+- **[css flexbox]**
+- **[Semantic tags]**
+- **[Javascript]**
+- **[ES6 modules]**
+- **[webpack]**
+- **[Async]**
 
-## Deploying to GitHub Pages
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-To deploy your project to GitHub Pages, use the following script:
+<!-- GETTING STARTED -->
 
-```bash
-npm run deploy
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps downbelow!
+
+### Prerequisites
+
+In order to run this project you need:
+
+- Web browser
+- Git-syn
+- Code editor
+
+### Setup
+
+Clone this repository to your desired folder:
+
+git clone https://github.com/mariegrace31/Leaderboard_project.git
+
+### Install
+
+Install this project run the command:
+
 ```
 
-This script will use `gh-pages` to deploy the contents of the `dist` directory to the `gh-pages` branch of your repository. Make sure to set up GitHub Pages for your repository before running this command.
+npm install
 
-## Contributing
+```
 
-If you have suggestions, improvements, or bug fixes, please feel free to contribute to this project. Fork the repository, make your changes, and submit a pull request with a clear description of your changes.
+### Usage
 
-## License
+To run the project:
 
-The project is licensed under the [MIT License](LICENSE). Feel free to use and modify the template according to your needs.
+- Clone this repo to your local machine.
+
+### Run tests
+
+To run tests, run the following command:
+
+- Track HTML linter errors run:
+
+```
+npx hint .
+```
+
+- Track CSS linter errors run:
+
+```
+npx stylelint "**/*.{css,scss}"
+```
+
+- Track JavaScript linter errors run:
+
+```
+npx eslint .
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Author <a name="author"></a>
+
+👤 **1.Marie Grace Bahati**
+
+- GitHub: [@mariegrace31](https://github.com/mariegrace31)
+- LinkedIn: [Marie Grâce Bahati](https://www.linkedin.com/in/marie-gr%C3%A2ce-bahati-546765224/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## Live Demo <a name="Live-demo"></a>
+
+
+- Here is the live demo link: <a href="">Live demo</a>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- **[ Drag and drop ]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mariegrace31/Leaderboard_project/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project don't hesitate to give a star and follow me on github!
+
+- GitHub: [@mariegrace31](https://github.com/mariegrace31)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank all the Microverse team for giving me this chance and you too for your time!
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
