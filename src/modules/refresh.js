@@ -1,10 +1,10 @@
 import fetchValue from './fetchApi.js';
- 
+
 const refreshData = async () => {
   const refresh = document.querySelector('.refresh');
   const value = await fetchValue();
   const table = document.querySelector('.score-table');
-  table.innerHTML= '';
+  table.innerHTML = '';
   let placeholder = '';
   value.forEach((score) => {
     placeholder += `
@@ -12,7 +12,6 @@ const refreshData = async () => {
     <td>${score.user}: ${score.score}</td>
     </tr>
     `;
-    
   });
   table.innerHTML = placeholder;
   refresh.addEventListener('click', () => {
