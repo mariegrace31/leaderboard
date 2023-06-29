@@ -146,7 +146,8 @@ npx eslint .
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- **[ Drag and drop ]**
+- **[Styling my project]**
+- **[Live demo link]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +157,7 @@ npx eslint .
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mariegrace31/Leaderboard_project/issues).
+Feel free to check the [issues page](https://github.com/mariegrace31/leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
