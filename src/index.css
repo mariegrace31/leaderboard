@@ -1,22 +1,106 @@
 :root {
   --primary: #ddd;
-  --secondary: #e5d4d4;
-}
-
-html,
-body {
-  margin: 0;
-  padding: 0;
-  background-color: var(--primary);
-}
-
-body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
+  --secondary: #222020;
 }
 
 * {
   box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body,
+.board,
+.recent-score,
+.title,
+.add-score,
+.form {
+  display: flex;
+}
+
+body {
+  flex-direction: column;
+  background: var(--primary);
+  margin: 20px;
+  gap: 30px;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.board {
+  gap: 40px;
+}
+
+.recent-score {
+  flex-direction: column;
+  gap: 12px;
+}
+
+.title {
+  gap: 10px;
+}
+
+.score-table {
+  border: 2px solid black;
+}
+
+.score-table ul {
+  list-style: none;
+}
+
+.score-table ul li {
+  font-size: 20px;
+  padding: 5px;
+}
+
+.score-table ul li:nth-child(1),
+.score-table ul li:nth-child(3),
+.score-table ul li:nth-child(5),
+.score-table ul li:nth-child(7) {
+  background-color: #838181;
+}
+
+.title h2 {
+  font-size: 30px;
+  color: var(--secondary);
+}
+
+.refresh {
+  border-radius: 4px;
+  background-color: var(--primary);
+  font-size: 15px;
+  padding: 2px;
+}
+
+.add-score {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.add-score h2 {
+  font-size: 30px;
+}
+
+.form {
+  flex-direction: column;
+  gap: 12px;
+}
+
+.submit {
+  margin: 10px 0 0 150px;
+  background-color: var(--primary);
+  border: 2px solid black;
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+input {
+  background-color: var(--primary);
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 6px;
 }
