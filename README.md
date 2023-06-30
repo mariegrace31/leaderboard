@@ -51,13 +51,9 @@ I developed a leaderboard using HTML, CSS, JavaScript, and APIs. This project ai
 
 ### Key Features <a name="key-features"></a>
 
-- **[HTML Form]**
-- **[css flexbox]**
-- **[Semantic tags]**
-- **[Javascript]**
-- **[ES6 modules]**
-- **[webpack]**
-- **[Async]**
+- **Add the style for the app**
+- **Use the ES6 of javascript**
+- **Set up the project using webpack**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
