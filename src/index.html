@@ -6,31 +6,36 @@
   <title>Leaderboard</title>
 </head>
 <body>
-  <h1>Leaderboard</h1>
-  <section class="board">
-    <div class="recent-score">
-      <div class="title">
-        <h2>Recent scores</h2>
-        <button class="refresh">refresh</button>
-      </div>
-      
- <!-- table for the scores -->
-      <div> 
-      <table class="score-table"></table>
-      </div>
-
-      
+  <section class="body">
+    <div class="Title">
+      <h1>Leaderboard</h1>
+      <hr class="title-underline">
     </div>
-    <div class="add-score">
-      <h2>Add your score</h2>
-      <form id="form" action="https://formspree.io/f/mdorndqd" method="post">
-        <div class="form">
-          <input type="text" id="name" name="name" placeholder="Your name" required >
-          <input type="text" id="score" name="score" placeholder="Your score" required>
+    <section class="board">
+      <div class="recent-score">
+        <div class="title">
+          <h2>Recent scores</h2>
+          <button class="refresh">REFRESH</button>
         </div>
-        <button class="submit" type="submit">Submit score</button>
-      </form>
-    </div>
+        
+   <!-- table for the scores -->
+        <div> 
+        <table class="score-table"></table>
+        </div>
+  
+        
+      </div>
+      <div class="add-score">
+        <h2>Add your score</h2>
+        <form id="form" action="https://formspree.io/f/mdorndqd" method="post">
+          <div class="form">
+            <input type="text" id="name" name="name" placeholder="Your name" required >
+            <input type="text" id="score" name="score" placeholder="Your score" required>
+          </div>
+          <button class="submit" type="submit">Submit</button>
+        </form>
+      </div>
+    </section>
   </section>
 </body>
 </html>

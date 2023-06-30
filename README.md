@@ -145,9 +145,7 @@ npx eslint .
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-- **[Styling my project]**
-- **[Live demo link]**
+- **[improve the score table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
