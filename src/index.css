@@ -36,22 +36,29 @@ body,
   overflow: scroll;
 }
 
+:root {
+  --scrollbar-background-color: #d4a3f7;
+  --scrollbar-thumb-color: #320d4b;
+  --scrollbar-corner-color: #d4a3f7;
+  --scrollbar-button-color: #d4a3f7;
+}
+
 ::-webkit-scrollbar {
-  background-color: #d4a3f7;
+  background-color: var(--scrollbar-background-color);
   width: 12px;
   border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #320d4b;
+  background-color: var(--scrollbar-thumb-color);
 }
 
 ::-webkit-scrollbar-corner {
-  background-color: #d4a3f7;
+  background-color: var(--scrollbar-corner-color);
 }
 
 ::-webkit-scrollbar-button {
-  background-color: #d4a3f7;
+  background-color: var(--scrollbar-button-color);
 }
 
 body {
@@ -174,7 +181,6 @@ td {
 tr:nth-child(odd) {
   background-color: #c78bf0;
 }
-
 
 ::placeholder {
   color: rgb(60, 58, 61);
