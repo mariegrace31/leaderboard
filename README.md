@@ -140,8 +140,10 @@ npx eslint .
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-- **[live demo link]**
+- [ ] **Add test using jest**
+- [ ] **Add SIDEBAR SECTIONS**
+- [ ] **Add NAVBAR SECTIONS**
+- [ ] **Add LIVE CHAT SECTION**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
