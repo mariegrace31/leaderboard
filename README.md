@@ -128,15 +128,6 @@ npx eslint .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## Live Demo <a name="Live-demo"></a>
-
-
-- Here is the live demo link: <a href="">Live demo</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
