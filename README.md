@@ -34,7 +34,7 @@
 
 # 📖 [Leaderdoard] <a name="about-project"></a>
 
-**[Leaderboard]** Is a project exercise given by Microverse to help me learn how to use webpack files and to build a basic website that allows users to load scores.
+I developed a leaderboard using HTML, CSS, JavaScript, and APIs. This project aims to create a simple and intuitive interface that allows users to track their scores and compare their rankings with others.👌
 
 ## 🛠 Built With <a name="built-with"></a>
 
