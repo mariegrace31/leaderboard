@@ -34,7 +34,7 @@
 
 # 📖 [Leaderdoard] <a name="about-project"></a>
 
-**[Leaderboard]** Is a project exercise given by Microverse to help me learn how to use webpack files and to build a basic website that allows users to load scores.
+I developed a leaderboard using HTML, CSS, JavaScript, and APIs. This project aims to create a simple and intuitive interface that allows users to track their scores and compare their rankings with others.👌
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,13 +51,9 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[HTML Form]**
-- **[css flexbox]**
-- **[Semantic tags]**
-- **[Javascript]**
-- **[ES6 modules]**
-- **[webpack]**
-- **[Async]**
+- **Add the style for the app**
+- **Use the ES6 of javascript**
+- **Set up the project using webpack**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,22 +128,13 @@ npx eslint .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LIVE DEMO -->
-
-## Live Demo <a name="Live-demo"></a>
-
-
-- Here is the live demo link: <a href="">Live demo</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-
-- **[Styling my project]**
-- **[Live demo link]**
+- [ ] **Add test using jest**
+- [ ] **Add SIDEBAR SECTIONS**
+- [ ] **Add NAVBAR SECTIONS**
+- [ ] **Add LIVE CHAT SECTION**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
