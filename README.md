@@ -128,6 +128,11 @@ npx eslint .
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- LIVE DEMO -->
+## 🚀 Live demo <a name="Live demo"></a>
+<p>Here is the <a href="https://mariegrace31.github.io/leaderboard/">Live demo</a> </p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
