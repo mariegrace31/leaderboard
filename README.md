@@ -61,7 +61,7 @@ I developed a leaderboard using HTML, CSS, JavaScript, and APIs. This project ai
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps downbelow!
+To get a local copy up and running, follow the steps down below!
 
 ### Prerequisites
 
@@ -69,7 +69,7 @@ In order to run this project you need:
 
 - Web browser
 - Git-syn
-- Code editor
+- Code Editor
 
 ### Setup
 
@@ -79,7 +79,7 @@ git clone https://github.com/mariegrace31/Leaderboard_project.git
 
 ### Install
 
-Install this project run the command:
+To install this project, run this command:
 
 ```
 
@@ -131,16 +131,6 @@ npx eslint .
 <!-- LIVE DEMO -->
 ## 🚀 Live demo <a name="Live demo"></a>
 <p>Here is the <a href="https://mariegrace31.github.io/leaderboard/">Live demo</a> </p>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-- [ ] **Add test using jest**
-- [ ] **Add SIDEBAR SECTIONS**
-- [ ] **Add NAVBAR SECTIONS**
-- [ ] **Add LIVE CHAT SECTION**
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
