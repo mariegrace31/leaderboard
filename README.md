@@ -157,7 +157,7 @@ If you like this project don't hesitate to give a star and follow me on github!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank all the Microverse team for giving me this chance and you too for your time!
+I would like to thank the Microverse team for giving me this chance and you too for your time!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
